@@ -56,7 +56,6 @@ async function updateArray() {
 
 // Render
 export function ChartApp() {
-  console.log(maxNum)
   return (
     <Chart
       chartType="LineChart"
